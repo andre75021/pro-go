@@ -26,7 +26,6 @@ func loadTemplate() {
 		}
 	}
 }
-
 func main() {
 	loadTemplate()
 }
